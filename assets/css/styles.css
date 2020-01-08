@@ -633,7 +633,7 @@ ul li {
 }
 
 .img-overlay {
-  background-image: url(http://cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/images/footer-bg.png);
+  background-image: url(../../assets/images/footer-bg.png);
   background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
@@ -650,19 +650,19 @@ ul li {
 }
 
 .home-2-img {
-  background-image: url(http://cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/images/home-bg-img.jpg);
+  background-image: url(../../assets/images/home-bg-img.jpg);
 }
 
 .featured-img-one {
-  background-image: url(http://cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/images/home-bg-img.jpg);
+  background-image: url(../../assets/images/home-bg-img.jpg);
 }
 
 .featured-img-two {
-  background-image: url(http://cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/images/extra-feature-bg.jpg);
+  background-image: url(../../assets/images/extra-feature-bg.jpg);
 }
 
 .map-image {
-  background-image: url(http://cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/images/map-color-overlay.png);
+  background-image: url(../../assets/images/map-color-overlay.png);
 }
 
 .mt-30 {
@@ -3226,7 +3226,7 @@ body {
 }
 
 .home-ov-img {
-  background-image: url(http://cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/images/header-bg-2.png);
+  background-image: url(../../assets/images/header-bg-2.png);
   background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
