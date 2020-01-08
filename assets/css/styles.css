@@ -654,15 +654,15 @@ ul li {
 }
 
 .featured-img-one {
-  background-image: url(../../assets/images/home-bg-img.jpg);
+  background-image: url(../../assets/images/flat-screen.jpg);
 }
 
 .featured-img-two {
-  background-image: url(../../assets/images/extra-feature-bg.jpg);
+  background-image: url(../../assets/images/blog.jpg);
 }
 
 .map-image {
-  background-image: url(../../assets/images/map-color-overlay.png);
+  /*background-image: url(../../assets/images/map.jpg);*/
 }
 
 .mt-30 {
@@ -808,7 +808,7 @@ button:focus {
 }
 
 .white-vertion .img-color-overlay {
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.9);
 }
 
 .white-vertion .dark-bg {
@@ -944,201 +944,6 @@ button:focus {
   box-shadow: 0px 10px 20px 4px #00000015;
 }
 
-.dark-vertion {
-  opacity: 0.9;
-}
-
-.dark-vertion.black-bg {
-  background-color: #100e17;
-}
-
-.dark-vertion .section-loader {
-  background: #100e17;
-}
-
-.dark-vertion ::placeholder {
-  color: #fff;
-}
-
-.dark-vertion a {
-  color: #fff;
-}
-
-.dark-vertion h2 {
-  color: #fff;
-}
-
-.dark-vertion h3 {
-  color: #fff;
-}
-
-.dark-vertion h4 {
-  color: #fff;
-}
-
-.dark-vertion h5 {
-  color: #fff;
-}
-
-.dark-vertion h6 {
-  color: #fff;
-}
-
-.dark-vertion p {
-  color: #fff;
-}
-
-.dark-vertion address {
-  color: #fff;
-}
-
-.dark-vertion span {
-  color: #fff;
-}
-
-.dark-vertion div {
-  color: #fff;
-}
-
-.dark-vertion ul li {
-  color: #fff;
-}
-
-.dark-vertion .form-control {
-  color: #fff;
-}
-
-.dark-vertion .contact-message {
-  color: #fff;
-}
-
-.dark-vertion .nav-strict {
-  background-color: #202026;
-}
-
-.dark-vertion .img-color-overlay {
-  background-color: rgba(0, 0, 0, 0.9);
-}
-
-.dark-vertion .mh-home .mh-header-info .social-icon li .fa:hover {
-  background-color: #fff;
-}
-
-.dark-vertion .page-item.active .page-link {
-  background-color: #fff;
-  border-color: #fff;
-  color: #0bceaf;
-}
-
-.dark-vertion .navbar-toggler .icon,
-.dark-vertion .navbar-toggler .icon::after,
-.dark-vertion .navbar-toggler .icon::before {
-  background-color: #fff;
-}
-
-.dark-vertion .mh-header .navbar-nav li.active a {
-  border-color: #fff;
-  padding-right: 0;
-  padding-left: 0;
-}
-
-.dark-vertion .mh-header.nav-3 .navbar-nav li.active a {
-  border-color: transparent;
-}
-
-.dark-vertion .mh-footer .form-control {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  -moz-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-}
-
-.dark-vertion .mh-footer .form-control:focus {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  -moz-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-}
-
-.dark-vertion .mh-footer .contact-message {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  -moz-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-}
-
-.dark-vertion .mh-footer .contact-message:focus {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  -moz-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-}
-
-.dark-vertion .mh-footer-2 .form-control {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  -moz-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-}
-
-.dark-vertion .mh-footer-2 .form-control:focus {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  -moz-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-}
-
-.dark-vertion .mh-footer-2 .contact-message {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  -moz-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-}
-
-.dark-vertion .mh-footer-2 .contact-message:focus {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  -moz-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-}
-
-.dark-vertion .mh-work .mh-experience-deatils .mh-work-item {
-  -webkit-box-shadow: -1rem 0 3rem #000;
-  box-shadow: -1rem 0 3rem #000;
-}
-
-.dark-vertion .mh-pricing .mh-pricing {
-  -webkit-box-shadow: -1rem 0 3rem #000;
-  box-shadow: -1rem 0 3rem #000;
-}
-
-.dark-vertion .mh-blog .mh-blog-item {
-  -webkit-box-shadow: -1rem 0 3rem #000;
-  box-shadow: -1rem 0 3rem #000;
-}
-
-.dark-vertion .mh-footer-address .mh-address-footer-item {
-  -webkit-box-shadow: -1rem 0 3rem #000;
-  box-shadow: -1rem 0 3rem #000;
-}
-
-.dark-vertion .mh-experince .mh-education-deatils .mh-education-item {
-  -webkit-box-shadow: -1rem 0 3rem #000;
-  box-shadow: -1rem 0 3rem #000;
-}
-
-.dark-vertion .mh-service .mh-service-item {
-  -webkit-box-shadow: -1rem 0 3rem #000;
-  box-shadow: -1rem 0 3rem #000;
-}
-
-.dark-vertion .mh-home .hero-img img {
-  border: 20px solid rgba(0, 0, 0, 0.4);
-}
-
-.dark-vertion .mh-home .img-border {
-  border: 20px solid rgba(0, 0, 0, 0.9);
-}
-
-.dark-vertion .candidatos .parcial .progressBar {
-  background: rgba(199, 198, 198, 0.6);
-}
-
-.dark-vertion .mh-progress path:nth-child(1) {
-  stroke: rgba(255, 255, 255, 0.5);
-}
 
 .mh-rtl {
   text-align: right;
