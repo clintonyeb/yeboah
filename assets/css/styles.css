@@ -650,7 +650,7 @@ ul li {
 }
 
 .home-2-img {
-  background-image: url(../../assets/images/home-bg-img.jpg);
+  background-image: url(../../assets/images/cover.JPG);
 }
 
 .featured-img-one {
@@ -808,7 +808,7 @@ button:focus {
 }
 
 .white-vertion .img-color-overlay {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 255, 255, 0.7);
 }
 
 .white-vertion .dark-bg {
@@ -3617,6 +3617,11 @@ BLOG Pagination
   font-size: 22px;
   line-height: 30px;
   margin-bottom: 30px;
+}
+
+/*Custom*/
+.h-full {
+  height: 100vh;
 }
 
 /*# sourceMappingURL=styles.css.map */
