@@ -1545,7 +1545,7 @@ body {
 }
 
 .mh-experince .mh-education-deatils .mh-education-item {
-  margin-bottom: 30px;
+  margin-bottom: .3rem;
   padding: 26px 30px;
   -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
@@ -1563,8 +1563,9 @@ body {
 }
 
 .mh-experince .mh-education-deatils .mh-education-item h4 a {
-  font-style: italic;
-  margin-left: 4px;
+  /*font-style: italic;*/
+  /*margin-left: 4px;*/
+  font-size: small;
   color: #0bceaf;
 }
 
@@ -1600,7 +1601,7 @@ body {
 }
 
 .mh-work .mh-experience-deatils .mh-work-item {
-  margin-bottom: 30px;
+  margin-bottom: .3rem;
   padding: 20px 30px;
   border-radius: 4px;
   -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
@@ -1620,6 +1621,7 @@ body {
 
 .mh-work .mh-experience-deatils .mh-work-item h4 a {
   color: #0bceaf;
+  font-size: small;
 }
 
 .mh-work .mh-experience-deatils .mh-work-item .mh-eduyear {
